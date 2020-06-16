@@ -1,4 +1,5 @@
 
+
 #Importando librerias
 from flask import Flask, render_template, request, redirect, url_for, flash, session, g
 from flask_mysqldb import MySQL
